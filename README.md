@@ -1,6 +1,6 @@
 ## PDF Generation with C#
 
-This is a PDF Generator API example that creates a receipt PDF from HTML with C#. Replace the `your_api_key_here` placeholder with your live API key from https://dashboard.pspdfkit.com/api_keys/ in `index.js`.
+This is a PDF Generator API example that creates a receipt PDF from HTML with C#. Replace the `{YOUR_API_KEY}` placeholder with your live API key from https://dashboard.pspdfkit.com/api_keys/ in `Program.cs`.
 
 ## Installation
 
