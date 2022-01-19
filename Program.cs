@@ -12,7 +12,7 @@ namespace PspdfkitApiDemo
 			var client = new RestClient("https://api.pspdfkit.com/build");
 
 			var request = new RestRequest(Method.POST)
-			  .AddHeader("Authorization", "Bearer {YOUR_API_KEY}") // Replace {YOUR_API_KEY} with your API key.")
+			  .AddHeader("Authorization", "Bearer {YOUR_API_KEY}") // Replace {YOUR_API_KEY} with your API key.
 			  .AddFile("index.html", "index.html")
 			  .AddFile("style.css", "style.css")
 			  .AddFile("Inter-Regular.ttf", "Inter-Regular.ttf")
