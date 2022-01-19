@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pu62El3JpAjzxm4MM/Tm0iBNnhPhmcNOtBp4Gr4xDdjwNOzv/A7e0cXi+FRX7CBl2aaev3p1rxNu8zke488usg==",
+  "success": true,
+  "projectFilePath": "/Users/hulyakarakaya/Desktop/PspdfkitApiDemo/PspdfkitApiDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/hulyakarakaya/.nuget/packages/restsharp/106.15.0/restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
